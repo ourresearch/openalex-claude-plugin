@@ -12,6 +12,9 @@
   "repository": "https://github.com/ourresearch/openalex-claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://openalex.org/OpenAlex_privacy_policy.pdf",
+  "termsOfServiceUrl": "https://openalex.org/OpenAlex_termsofservice.pdf",
+  "supportUrl": "https://help.openalex.org/how-to/support/",
+  "documentationUrl": "https://help.openalex.org/access/connector/",
   "keywords": [
     "research",
     "literature",

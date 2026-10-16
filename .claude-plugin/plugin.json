@@ -1,0 +1,21 @@
+{
+  "name": "openalex",
+  "displayName": "OpenAlex",
+  "version": "1.0.0",
+  "description": "Search OpenAlex, the free and open index of the world's scholarly research: papers, books, datasets and preprints across every field, with their authors, institutions, journals, funders and citations.",
+  "author": {
+    "name": "OpenAlex",
+    "email": "team@openalex.org",
+    "url": "https://openalex.org"
+  },
+  "homepage": "https://help.openalex.org/access/connector/",
+  "repository": "https://github.com/ourresearch/openalex-claude-plugin",
+  "license": "MIT",
+  "keywords": ["research", "literature", "scholarly", "citations", "papers", "academic"],
+  "mcpServers": {
+    "openalex": {
+      "type": "http",
+      "url": "https://mcp.openalex.org/mcp"
+    }
+  }
+}

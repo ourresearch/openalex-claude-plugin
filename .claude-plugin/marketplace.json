@@ -1,0 +1,17 @@
+{
+  "name": "openalex",
+  "owner": {
+    "name": "OpenAlex",
+    "email": "team@openalex.org"
+  },
+  "metadata": {
+    "description": "OpenAlex's plugin for Claude Code: search the free and open index of the world's scholarly research."
+  },
+  "plugins": [
+    {
+      "name": "openalex",
+      "source": "./",
+      "description": "Search OpenAlex, the free and open index of the world's scholarly research, from Claude Code."
+    }
+  ]
+}

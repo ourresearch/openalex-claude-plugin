@@ -11,7 +11,15 @@
   "homepage": "https://help.openalex.org/access/connector/",
   "repository": "https://github.com/ourresearch/openalex-claude-plugin",
   "license": "MIT",
-  "keywords": ["research", "literature", "scholarly", "citations", "papers", "academic"],
+  "privacyPolicyUrl": "https://openalex.org/OpenAlex_privacy_policy.pdf",
+  "keywords": [
+    "research",
+    "literature",
+    "scholarly",
+    "citations",
+    "papers",
+    "academic"
+  ],
   "mcpServers": {
     "openalex": {
       "type": "http",

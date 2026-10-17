@@ -1,8 +1,8 @@
 {
   "name": "openalex",
   "displayName": "OpenAlex",
-  "version": "1.0.0",
-  "description": "Search OpenAlex, the free and open index of the world's scholarly research: papers, books, datasets and preprints across every field, with their authors, institutions, journals, funders and citations.",
+  "version": "1.1.0",
+  "description": "Search OpenAlex, the free and open index of the world's scholarly research, with skills that teach Claude to find literature on a topic, check reference lists, and map who works on a field.",
   "author": {
     "name": "OpenAlex",
     "email": "team@openalex.org",
@@ -22,11 +22,5 @@
     "citations",
     "papers",
     "academic"
-  ],
-  "mcpServers": {
-    "openalex": {
-      "type": "http",
-      "url": "https://mcp.openalex.org/mcp"
-    }
-  }
+  ]
 }
